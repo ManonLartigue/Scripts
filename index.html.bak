@@ -5,7 +5,11 @@
   </head>
   <body style="background-color:#1c87c9;">
     <h1>Bonjour</h1>
-	<h1><u>Hi</u></h1>
+<<<<<<< HEAD
+	<h1><u>Hola a todos</u></h1>
+=======
+	<h1><u>Hi everybody!</u></h1>
+>>>>>>> editBranch
     <p style="color:#ffffff";>Salut tout le monde </p>
 	<p><i>paragraphe n°1</i></p>
   </body>
